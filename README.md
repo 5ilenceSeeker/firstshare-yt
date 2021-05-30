@@ -51,7 +51,7 @@
 
 <img src="https://github.com/5ilenceSeeker/firstshare-yt/blob/main/logo.png" />  
 
-<img src="https://github.com/5ilenceSeeker/firstshare-yt/blob/main/upload.png" />
+
 
 
 ### Resources
